@@ -1,1 +1,1 @@
-# online_learning_management_system_djando
+# online_learning_management_system_django
